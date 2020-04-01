@@ -1,0 +1,32 @@
+D:\VB\VBTest2\VBTest2\bin\Debug\VBTest2.exe.config
+D:\VB\VBTest2\VBTest2\bin\Debug\VBTest2.exe
+D:\VB\VBTest2\VBTest2\bin\Debug\VBTest2.pdb
+D:\VB\VBTest2\VBTest2\bin\Debug\VBTest2.xml
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.vbprojResolveAssemblyReference.cache
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Form1.resources
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Resources.resources
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.vbproj.GenerateResource.cache
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.vbproj.CoreCompileInputs.cache
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.exe
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.xml
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.pdb
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Form2.resources
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Form3.resources
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Form4.resources
+D:\VB\VBTest2\VBTest2\obj\Debug\VBTest2.Form5.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\bin\Debug\VBTest2.exe.config
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\bin\Debug\VBTest2.exe
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\bin\Debug\VBTest2.pdb
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\bin\Debug\VBTest2.xml
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.vbprojAssemblyReference.cache
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Form1.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Form2.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Form3.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Form4.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Form5.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.Resources.resources
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.vbproj.GenerateResource.cache
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.vbproj.CoreCompileInputs.cache
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.exe
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.xml
+D:\应用\软件\Microsoft Visual Studio\Visual Studio\PersonalInformation\VBTest2\obj\Debug\VBTest2.pdb
